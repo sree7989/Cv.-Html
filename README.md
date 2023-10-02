@@ -1,3 +1,4 @@
+
 <html lang="en">
  
 <head>
@@ -19,8 +20,8 @@
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
-                <p><b>Email id:</b>swethaswe3467@gmail.com@gmail.com</p> 
-                <p><b>Mobile no :</b> 9398508700</p>
+                <p><b>Email id:</b>bhavyasrim2002@gmail.com</p> 
+                <p><b>Mobile no :7989507106</b></p>
             </div>
             <div class="Skills">
                 <h2>Skills</h2>
@@ -49,7 +50,7 @@
         </div>
         <div class="right">
             <div class="name">
-                <h1>E S SWETHA</h1>
+                <h1>M Bhavya sree</h1>
             </div>
             <div class="title">
                 <p>Web Developer</p>
